@@ -1,0 +1,8 @@
+D:\c#-projeler\EpicLauncherClone\obj\Debug\Ex-launcher.csproj.AssemblyReference.cache
+D:\c#-projeler\EpicLauncherClone\obj\Debug\Exlauncher.Form1.resources
+D:\c#-projeler\EpicLauncherClone\obj\Debug\EpicLauncherClone.Properties.Resources.resources
+D:\c#-projeler\EpicLauncherClone\obj\Debug\Ex-launcher.csproj.GenerateResource.cache
+D:\c#-projeler\EpicLauncherClone\obj\Debug\Ex-launcher.csproj.CoreCompileInputs.cache
+D:\c#-projeler\EpicLauncherClone\obj\Debug\EpicLauncherClone.exe
+D:\c#-projeler\EpicLauncherClone\obj\Debug\EpicLauncherClone.pdb
+D:\c#-projeler\EpicLauncherClone\obj\Debug\EpicLauncherClone.Form1.resources
